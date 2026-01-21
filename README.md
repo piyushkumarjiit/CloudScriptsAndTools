@@ -62,8 +62,3 @@ Log into the Vault and confirm that all secrets have been added.
 
 This project is licensed under the MIT License.
 
-```
-
-**Would you like me to add a "Sample JSON" section so users know exactly what the exported file should look like?**
-
-```
